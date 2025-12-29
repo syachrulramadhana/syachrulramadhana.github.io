@@ -67,6 +67,15 @@ section h2 {
     border-bottom: 2px solid #eee;
 }
 
+#about {
+    max-width: 900px;
+    margin: auto;
+}
+
+#about p {
+    text-align: justify;
+}
+
 /* ===== Footer ===== */
 footer {
     border-top: 1px solid #ddd;
@@ -75,3 +84,4 @@ footer {
     font-size: 14px;
     color: #555;
 }
+
